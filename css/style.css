@@ -272,7 +272,7 @@ a:hover {
 }
 @media (prefers-color-scheme:dark) {
 	:root.theme-auto body {
-	background-color:#121212;
+	background-color:#002b36;
 	color:#ffffff;
 }
 :root.theme-auto :focus-visible {
